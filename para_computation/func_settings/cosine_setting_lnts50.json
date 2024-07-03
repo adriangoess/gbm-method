@@ -1,0 +1,9 @@
+{
+  "name": "cosine_setting_lnts50",
+  "dim" : "1",
+  "func": "cos(x1)",
+  "Func" : "sin(x1)",
+  "lb" : "-1.5707963267948967",
+  "ub" : "1.5707963267948967",
+  "L-constant": "1"
+}

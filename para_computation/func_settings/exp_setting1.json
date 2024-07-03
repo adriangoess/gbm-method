@@ -1,0 +1,9 @@
+{
+  "name": "exp_setting1",
+  "dim" : "1",
+  "func": "exp(x1)",
+  "Func" : "exp(x1)",
+  "lb" : "-2",
+  "ub" : "2",
+  "L-constant": "7.38905609893066"
+}

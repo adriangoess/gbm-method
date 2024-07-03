@@ -1,0 +1,5 @@
+{
+  "name" : "setting_eps-1",
+  "eps" : "1e-1",
+  "delta": "0.5e-1"
+}
