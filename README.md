@@ -3,7 +3,7 @@
 This repository includes the code used in the article *All You Need is a Paraboloid: Quadratic Cuts for Non-Convex MINLP* by A. Göß, R. Burlacu, and A. Martin (2024). 
 If you use use this code in your work, please cite the article according to the corresponding section below.
 
-A preprint will be available for soon.
+A preprint is available at [https://arxiv.org/abs/2407.06143][0].
 
 
 ## Set-up
@@ -39,19 +39,22 @@ We put the resulting files for completeness.
 As mentioned in the introducing comment, please consider the following article if you leverage the present code:
 > A. Göß, R. Burlacu, and A. Martin (2024).
 > All You Need is a Paraboloid: Quadratic Cuts for Non-Convex MINLP
-> (link available soon)
+> [https://arxiv.org/abs/2407.06143][0]
 
 You may also use the BibTeX entry: 
 ```bibtex
-@article{Goess_GBM_2024,
+@misc{Goess_GBM_2024,
     author={G{\"o}{\ss}, Adrian and Burlacu, Robert and Martin, Alexander},
     title={All You Need is a Paraboloid: Quadratic Cuts for Non-Convex MINLP},
-    month={July},
     year={2024},
-    publisher={arxiv soon}
+    eprint={2407.06143},
+    archivePrefix={arXiv},
+    primaryClass={math.OC},
+    url={https://arxiv.org/abs/2407.06143}
 }
 ```
 
+[0]: https://arxiv.org/abs/2407.06143
 
 [1]: https://docs.anaconda.com/anaconda/install/
 
